@@ -1,0 +1,39 @@
+#app{
+    height: 100vh;
+    background-color: rgb(243, 242, 241);
+}
+.action-post-icon:hover{
+    cursor: pointer;
+    color: #1890ff
+}
+.action-post-icon{
+    font-size: 20px;
+  }
+::-webkit-scrollbar {
+    width: 5px;
+}
+::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 2px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+  #logo{
+    width: 120px;
+  }
+  .gate-form > .ant-card{
+    width: 400px;
+    /* min-height: 480px; */
+  }
+  .gate-form > .ant-card> .ant-card-head{
+    text-align: center !important;
+  }
+.gate-form{
+  padding-top:7%;
+  display: flex;
+  justify-content: center;
+}
+.flex {
+  display: flex;
+}

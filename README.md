@@ -1,0 +1,4 @@
+- Start mongodb
+- start face-verify-service
+- start server
+- start ui
